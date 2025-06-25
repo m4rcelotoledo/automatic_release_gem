@@ -1,4 +1,12 @@
-# automatic_release_gem 0.1.9 (Nov 04, 2024)
+# automatic_release_gem 0.2.0 (Jun 25, 2025)
+
+* Update Ruby version
+* Bump Gems
+* Update repository
+
+  *Marcelo Toledo*
+
+## automatic_release_gem 0.1.9 (Nov 04, 2024)
 
 * Bump Gems
 
