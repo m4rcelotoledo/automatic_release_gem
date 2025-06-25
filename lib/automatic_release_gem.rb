@@ -4,7 +4,7 @@ require_relative 'automatic_release_gem/version'
 
 module AutomaticReleaseGem
   class << self
-    def usefull_method?
+    def useful_method?
       true
     end
   end
