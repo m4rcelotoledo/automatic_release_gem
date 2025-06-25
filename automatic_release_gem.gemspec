@@ -10,15 +10,15 @@ Gem::Specification.new do |spec|
 
   spec.summary       = 'To test automatic publication of a gem by GitHub-Actions.'
   spec.description   = 'To test automatic publication of a gem by GitHub-Actions.'
-  spec.homepage      = 'https://github.com/marcelotoledo5000/automatic_release_gem'
+  spec.homepage      = 'https://github.com/m4rcelotoledo/automatic_release_gem'
   spec.license       = 'MIT'
   spec.required_ruby_version = Gem::Requirement.new('>= 3.4.2')
 
   # spec.metadata['allowed_push_host'] = "TODO: Set to 'http://mygemserver.com'"
 
   spec.metadata['homepage_uri'] = spec.homepage
-  spec.metadata['source_code_uri'] = 'https://github.com/marcelotoledo5000/automatic_release_gem'
-  spec.metadata['changelog_uri'] = 'https://github.com/marcelotoledo5000/automatic_release_gem/blob/master/CHANGELOG.md'
+  spec.metadata['source_code_uri'] = 'https://github.com/m4rcelotoledo/automatic_release_gem'
+  spec.metadata['changelog_uri'] = 'https://github.com/m4rcelotoledo/automatic_release_gem/blob/master/CHANGELOG.md'
   spec.metadata['rubygems_mfa_required'] = 'true'
 
   spec.files = Dir.chdir(File.expand_path(__dir__)) do
