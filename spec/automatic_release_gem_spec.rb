@@ -9,7 +9,7 @@ RSpec.describe AutomaticReleaseGem do
     expect(AutomaticReleaseGem::VERSION).not_to be_nil
   end
 
-  it '.usefull_method' do
+  it '.useful_method?' do
     expect(my_method).to be true
   end
 end
